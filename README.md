@@ -34,7 +34,7 @@ Full-stack developer turned AI/ML engineer. I build end-to-end intelligent syste
 End-to-end data science project — EDA, ML recommendation engine (TF-IDF + cosine similarity), Flask webapp with custom UI, and embedded Tableau dashboard.
 
 `Python` `Flask` `Scikit-learn` `Tableau` `CSS`
-[GitHub](#) · [Live Demo](#)
+
 
 ---
 
@@ -42,7 +42,7 @@ End-to-end data science project — EDA, ML recommendation engine (TF-IDF + cosi
 Full-stack property listing platform with authentication, CRUD, reviews, and search. Built with Node.js/Express + MongoDB, deployed on Render.
 
 `Node.js` `Express` `MongoDB` `REST APIs`
-[GitHub](https://github.com/hamzashaikh-ai/delta-demo) · [Live Demo](#)
+[GitHub](https://github.com/hamzashaikh-ai/delta-demo) · https://airbnb-project-4wnl.onrender.com/listings
 
 ---
 
@@ -50,7 +50,7 @@ Full-stack property listing platform with authentication, CRUD, reviews, and sea
 Hackathon project — full-stack app for software supply chain analysis with real-time CVE detection, Sigstore verification, and risk dashboards.
 
 `React` `Node.js` `Firebase` `Google Cloud` `Syft` `Grype`
-[GitHub](https://github.com/hamzashaikh-ai/Hackathon) · [Live Demo](#)
+
 
 ---
 
