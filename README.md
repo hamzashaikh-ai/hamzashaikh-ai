@@ -34,6 +34,7 @@ Full-stack developer turned AI/ML engineer. I build end-to-end intelligent syste
 End-to-end data science project — EDA, ML recommendation engine (TF-IDF + cosine similarity), Flask webapp with custom UI, and embedded Tableau dashboard.
 
 `Python` `Flask` `Scikit-learn` `Tableau` `CSS`
+https://github.com/hamzashaikh-ai/Netflix_Recomendation_system  . https://netflix-recommendation-3ulv.onrender.com
 
 
 ---
