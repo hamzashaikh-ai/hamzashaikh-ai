@@ -30,6 +30,11 @@ Full-stack developer turned AI/ML engineer. I build end-to-end intelligent syste
 
 ## 🚀 Featured Projects
 
+### Agentic AI Travel Planning Assistant
+End-to-end LLM-powered travel agent — multi-tool reasoning with LangGraph's ReAct agent, real-time weather via Open-Meteo API, local destination/hotel/restaurant data, and a Streamlit UI. Built and deployed for production internship use.
+Python LangGraph LangChain Groq LLaMA 3.3 70B Streamlit
+https://github.com/hamzashaikh-ai/travel-planning-agent· https://travel-planning-agent-ldz5zj94siwt9krvu24quq.streamlit.app
+
 ### Netflix Content Analysis & AI Recommender
 End-to-end data science project — EDA, ML recommendation engine (TF-IDF + cosine similarity), Flask webapp with custom UI, and embedded Tableau dashboard.
 
