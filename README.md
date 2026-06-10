@@ -24,9 +24,6 @@ AI/ML Engineer building end-to-end intelligent systems — from agentic LLM pipe
 **Data & Visualization**
 `Tableau` `Matplotlib` `Seaborn` `TF-IDF / NLP`
 
-**Full Stack**
-`React.js` `Node.js` `Express.js` `MongoDB` `Firebase` `Flask` `Streamlit` `REST APIs`
-
 **Tools & Platforms**
 `Git` `GitHub` `Render` `Vercel` `Streamlit Cloud` `Google Cloud` `Postman`
 
@@ -36,13 +33,6 @@ AI/ML Engineer building end-to-end intelligent systems — from agentic LLM pipe
 ---
 
 ## 🚀 Featured Projects
-
-### 🤖 AI Research & Competitor Intelligence Agent *(Semester 7 Major Project)*
-Agentic RAG system for live research and competitor analysis. Uses a LangGraph multi-agent pipeline with Groq (LLaMA 3.3 70B), Tavily for real-time web search, FAISS for vector retrieval, and a Streamlit UI. Built to answer deep research queries with cited, structured outputs.
-
-`Python` `LangGraph` `Groq` `LLaMA 3.3 70B` `Tavily` `FAISS` `RAG` `Streamlit`
-
----
 
 ### 📈 Tesla Stock Price Prediction — SimpleRNN vs LSTM
 Deep learning project comparing SimpleRNN and LSTM models for multi-horizon stock price forecasting (1-day, 5-day, 10-day ahead). Includes full data preprocessing, sequence windowing, model training, evaluation (RMSE, MAE, R²), and a Streamlit app for interactive predictions.
