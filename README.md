@@ -34,6 +34,14 @@ AI/ML Engineer building end-to-end intelligent systems — from agentic LLM pipe
 
 ## 🚀 Featured Projects
 
+### 📄 Policy QA Assistant (RAG)
+
+Retrieval-augmented QA system over policy documents using ChromaDB for vector storage, TF-IDF embeddings, and Groq/Llama 3.3 70B for generation.
+
+`Python` `ChromaDB` `TF-IDF` `Groq` `LLaMA 3.3 70B`
+
+[GitHub](https://github.com/hamzashaikh-ai/Ai_Research_Agent)
+
 ### 📈 Tesla Stock Price Prediction — SimpleRNN vs LSTM
 Deep learning project comparing SimpleRNN and LSTM models for multi-horizon stock price forecasting (1-day, 5-day, 10-day ahead). Includes full data preprocessing, sequence windowing, model training, evaluation (RMSE, MAE, R²), and a Streamlit app for interactive predictions.
 
@@ -80,6 +88,8 @@ Hackathon project — full-stack app for software supply chain analysis with rea
 **AI/ML Engineer Intern @ Labmentix** *(April 2026 – Present · Remote)*
 Building production-grade ML pipelines and LLM agent systems end-to-end — from data preprocessing and model training to deployment and UI integration.
 
+**AI Evaluation Specialist @ Handshake AI — Project Dynamo** *(2026 – Present · Contract)*
+Writing adversarial multi-hop prompts to evaluate and stress-test frontier LLM behavior as part of a structured AI evaluation framework.
 ---
 
 ## 📚 Currently Learning
